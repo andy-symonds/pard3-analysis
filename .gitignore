@@ -1,3 +1,9 @@
+# Data files used for analysis
+/data/*.csv
+/data/*.xlsx
+/data/*.rds
+
+
 # History files
 .Rhistory
 .Rapp.history
