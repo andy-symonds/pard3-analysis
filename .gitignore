@@ -2,6 +2,7 @@
 /data/*.csv
 /data/*.xlsx
 /data/*.rds
+/data/*.tiff
 
 
 # History files
