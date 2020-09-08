@@ -9,6 +9,8 @@ Current manuscript is on bioRxiv
 This repository contains the code used for analysis shown in figures 1 and 3
 
 Figure 1E: ring_development_heatmap.R
+
 Figure 3A ii & iii: align_line_profiles.R
+
 Figure 3A iv: tramline_line_profiles.R
 
