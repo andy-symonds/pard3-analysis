@@ -3,7 +3,7 @@
 Symonds*, Buckley*, Williams & Clarke, manuscript (submitted, 2020).  
 *Equal contribution
 
-Current manuscript is on bioRxiv
+Current manuscript is on bioRxiv: doi: https://doi.org/10.1101/2020.02.16.950543
 
 This repository contains the code used for analysis shown in figures 1 and 3
 
